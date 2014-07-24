@@ -46,4 +46,8 @@ Tell your robot to "sass me" a three-word phrase:
  ```
 
  Yep. That's all I got.
+ 
+ ## Caveats
+ 
+ This script prefers to be used on Slack-deployed hubots. On other chat platforms, the dancer will have sassy backticks sort of littered around. Still sassy, tho. 
 
